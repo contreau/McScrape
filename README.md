@@ -1,5 +1,5 @@
 # McScrape
-An in-progress data science project that seeks to answer:
+A data science project that answers:
 
 • In which Massachusetts counties are there the greatest number of McDonald’s restaurants?
 
